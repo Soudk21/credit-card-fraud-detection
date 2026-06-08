@@ -13,6 +13,7 @@ Our pipeline addresses extreme class imbalance (only **0.172%** fraud cases) thr
 
 ## 📂 Repository Structure
 
+```bash
 ├── data/
 │   └── README.md                        # Kaggle dataset link and description
 ├── notebooks/
