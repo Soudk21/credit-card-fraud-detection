@@ -83,7 +83,7 @@ Make sure you download the dataset from Kaggle and place `creditcard.csv` inside
 
 ## 🤝 Acknowledgments
 
-- Dataset: [ULB Machine Learning Group]([https://www.kaggle.com/datasets/mlgulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)) via Kaggle
+- Dataset: [ULB Machine Learning Group](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) via Kaggle
 - Affiliated with: Artificial Intelligence Research Center (AIRC), Ajman University, UAE
 
 ## 📜 Citation
