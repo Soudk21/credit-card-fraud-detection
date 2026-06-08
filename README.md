@@ -23,7 +23,7 @@ Our pipeline addresses extreme class imbalance (only **0.172%** fraud cases) thr
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 This is the official code for the ICERAI paper:
