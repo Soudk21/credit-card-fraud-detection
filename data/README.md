@@ -5,7 +5,7 @@
 The dataset used in this project is the **Credit Card Fraud Detection** dataset,
 publicly available on Kaggle.
 
-🔗 [Download from Kaggle](https://www.kaggle.com/datasets/mlgulb/creditcardfraud)
+🔗 [Download from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
