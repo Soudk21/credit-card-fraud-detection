@@ -89,12 +89,15 @@ Make sure you download the dataset from Kaggle and place `creditcard.csv` inside
 
 If you use this code or findings in your research, please cite:
 
+```bibtex
 @inproceedings{asaad2025creditcard,
 title={Credit Card Fraud Detection Using Machine Learning Techniques},
 author={Asaad, Soud and Farooq, Omer and Al Muntaser, Almotaz and Al-Betar, Mohammad Azmi},
 booktitle={Proceedings of ICERAI},
 year={2025}
 }
+
+```
 
 ## License
 
