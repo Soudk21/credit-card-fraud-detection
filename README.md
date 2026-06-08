@@ -54,7 +54,7 @@ Authors: Soud Asaad, Omer Farooq, Almotaz Al Muntaser, Mohammad Azmi Al-Betar (A
 
 ## 🗃️ Dataset
 
-The dataset used is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlgulb/creditcardfraud) from Kaggle.
+The dataset used is the [Credit Card Fraud Detection dataset]([https://www.kaggle.com/datasets/mlgulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)) from Kaggle.
 
 - 284,807 transactions over two days (September 2013, European cardholders)
 - 492 fraud cases — only **0.172%** of all transactions
@@ -83,7 +83,7 @@ Make sure you download the dataset from Kaggle and place `creditcard.csv` inside
 
 ## 🤝 Acknowledgments
 
-- Dataset: [ULB Machine Learning Group](https://www.kaggle.com/datasets/mlgulb/creditcardfraud) via Kaggle
+- Dataset: [ULB Machine Learning Group]([https://www.kaggle.com/datasets/mlgulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)) via Kaggle
 - Affiliated with: Artificial Intelligence Research Center (AIRC), Ajman University, UAE
 
 ## 📜 Citation
